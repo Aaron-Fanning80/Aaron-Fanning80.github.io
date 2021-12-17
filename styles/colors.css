@@ -1,0 +1,55 @@
+
+ 
+  .navbar-nav {
+  background-color: #666;
+}
+
+  li {
+  border-right: 1px solid #bbb;
+	}
+
+  li a {
+  color: white;
+  }
+  
+  footer:only-of-type {
+  color: blue;
+  background: #666;
+}
+
+h2 + h1 {
+  color: Green;
+}
+h1 + p {
+  color: Green;
+}
+
+li a:hover {
+  color: green;
+  font-size: 22px;
+} 
+
+p:first-child {
+	color: blue;
+	
+}
+
+h2:empty{
+	width: 1000000000000000px;
+  height: 20px;
+  background: black;
+}
+
+#link1 {
+  background-color: black;
+}
+
+
+
+#head {
+  color: blue;
+}
+
+#secondmessage {
+  color: green;
+}
